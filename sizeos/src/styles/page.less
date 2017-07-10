@@ -1,0 +1,68 @@
+#app {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+@baseFont: 20px;
+
+html {
+  font-size: @baseFont;
+}
+a, button, input, select, textarea {
+    outline:0;
+}
+* {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-touch-callout:none;
+  margin: 0;
+  padding: 0;
+}
+form, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, p {
+    list-style: none outside none;
+}
+body {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  font-family: Microsoft YaHei,simsong,"Helvetica Neue", Helvetica, sans-serif;
+  line-height: 1.5;
+  color: #3d4145;
+  font-size: 0.75rem;
+  -webkit-touch-callout:none;  /*系统默认菜单被禁用*/
+  -webkit-user-select:none; /*webkit浏览器*/
+  -khtml-user-select:none; /*早期浏览器*/
+  -moz-user-select:none;/*火狐*/
+  -ms-user-select:none; /*IE10*/
+  user-select:none;
+}
+.page{
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+.text-over{
+    display:block;white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+.text-left {
+    text-align: left;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+.text-line-through{
+  text-decoration:line-through;
+}

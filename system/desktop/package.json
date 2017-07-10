@@ -1,0 +1,11 @@
+{
+  "name": "sizeos",
+  "main": "dist/index.html",
+  "window": {
+    "toolbar": false,
+    "position": "center",
+    "fullscreen":true,
+    "resizable":false,
+    "show_in_taskbar": true
+  }
+}

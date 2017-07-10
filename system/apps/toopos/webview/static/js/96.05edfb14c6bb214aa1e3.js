@@ -1,0 +1,1 @@
+webpackJsonp([96],{214:function(t,e,n){var l=n(176)(null,n(448),null,null,null);t.exports=l.exports},448:function(t,e){t.exports={render:function(){var t=this,e=t.$createElement;return(t._self._c||e)("a",{staticClass:"footer-item"},[t._t("default")],2)},staticRenderFns:[]}}});

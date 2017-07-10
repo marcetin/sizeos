@@ -1,0 +1,1 @@
+{"webdir":"webview","name":"toopos","appName":"兔博士","version":"1.4.3","setupVersion":"1.0.0","nwversion":"0.22.0","versionCode":143,"chanel":"www","os":"web","arch":"web","platform":"web","main":"webview/index.html","window":{"width":1280,"height":720,"min_width":800,"min_height":600,"icon":"webview/logo.png","toolbar":true,"position":"center","show_in_taskbar":true}}
