@@ -3,15 +3,17 @@
 使用nwjs和vue搭建桌面系统
 
 ## 技术栈
-vue2 + vue + vue-router + webpack + ES6/7 + less + njws(webview)
+vue2  + vue-router + webpack + ES6/7 + less + nwjs(webview)
 
 ## 项目运行
 
 ```
+
 cd sizeos
 npm install
 npm run build
 
+npm install nwjs -g
 sh ./start.sh
 ```
 # 说明
@@ -21,3 +23,4 @@ sh ./start.sh
 >  仅提供一种webos思路
 
 >  精力有限，欢迎提供代码、想法
+
