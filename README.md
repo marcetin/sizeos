@@ -3,7 +3,8 @@
 sizeos:使用nwjs和vue搭建桌面系统
 
 ## 技术栈
-vue2  + vue-router + webpack + ES6/7 + less + nwjs(webview)
+
+vue  + vue-router + webpack + ES + less + nwjs(webview tags)
 
 ## 项目运行
 
@@ -11,9 +12,9 @@ vue2  + vue-router + webpack + ES6/7 + less + nwjs(webview)
 npm install
 npm install nwjs -g
 npm run build && npm run native
-
 ```
-#  截屏
+
+##  截屏
 
 ![桌面](https://raw.githubusercontent.com/sizeos/sizeos/master/2017-07-11%2011-11-43%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/640)
 
@@ -23,15 +24,14 @@ npm run build && npm run native
 
 
 
-# TODO
+## TODO
 
 >  可能会迁移到electron，如果有可能打包atom到此系统
 
 >  多用户，目录权限控制
 
->  
 
-# 其它
+## 其它
 
 >  未完待续！ ^_^
 
