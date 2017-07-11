@@ -8,13 +8,19 @@ vue2  + vue-router + webpack + ES6/7 + less + nwjs(webview)
 ## 项目运行
 
 ```
-
-cd sizeos
 npm install
 npm install nwjs -g
 npm run build && npm run native
 
 ```
+#  截屏
+
+![桌面](https://raw.githubusercontent.com/sizeos/sizeos/master/2017-07-11%2011-11-43%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/640)
+
+![窗口化](https://raw.githubusercontent.com/sizeos/sizeos/master/2017-07-11%2011-11-48%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/640)
+
+![全屏](https://raw.githubusercontent.com/sizeos/sizeos/master/2017-07-11%2011-11-51%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/640)
+
 
 
 # TODO
