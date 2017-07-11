@@ -41,7 +41,7 @@ export default {
           sort:1,
           status:0,
           addtime:0,
-          icon:require("../assets/i/icon11.png"),
+          icon:require("../assets/i/wechat.png"),
           src:"https://wx.qq.com"
         },
 
@@ -50,7 +50,7 @@ export default {
           sort:2,
           status:0,
           addtime:0,
-          icon:require("../assets/i/icon12.png"),
+          icon:require("../assets/i/qq.png"),
           src:"http://w.qq.com"
         },
         {
@@ -58,7 +58,7 @@ export default {
           sort:3,
           status:0,
           addtime:0,
-          icon:require("../assets/i/icon13.png"),
+          icon:require("../assets/i/yy.png"),
           src:"http://www.yy.com"
         },
         {
@@ -66,7 +66,7 @@ export default {
           sort:4,
           status:0,
           addtime:0,
-          icon:require("../assets/i/icon14.png"),
+          icon:require("../assets/i/toopos.png"),
           src:"http://www.toopos.com/pos"
         },
         {
@@ -74,7 +74,7 @@ export default {
           sort:5,
           status:0,
           addtime:0,
-          icon:require("../assets/i/icon11.png"),
+          icon:require("../assets/i/baidu.png"),
           src:"http://www.baidu.com"
         }
       ]
