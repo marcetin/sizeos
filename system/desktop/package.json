@@ -7,5 +7,13 @@
     "fullscreen":true,
     "resizable":false,
     "show_in_taskbar": true
+  },
+  "webview": {
+     "partitions": [
+        {
+          "name": "trusted",
+          "accessible_resources": [ "<all_urls>" ]
+        }
+     ]
   }
 }
