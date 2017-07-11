@@ -1,20 +1,31 @@
-# 前言sizeos
+# 前言
 
-使用nwjs和vue搭建桌面系统
+sizeos:使用nwjs和vue搭建桌面系统
 
 ## 技术栈
-vue2 + vue + vue-router + webpack + ES6/7 + less + njws(webview)
+vue2  + vue-router + webpack + ES6/7 + less + nwjs(webview)
 
 ## 项目运行
 
 ```
+
 cd sizeos
 npm install
-npm run build
+npm install nwjs -g
+npm run build && npm run native
 
-sh ./start.sh
 ```
-# 说明
+
+
+# TODO
+
+>  可能会迁移到electron，如果有可能打包atom到此系统
+
+>  多用户，目录权限控制
+
+>  
+
+# 其它
 
 >  未完待续！ ^_^
 
